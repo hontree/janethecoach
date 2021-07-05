@@ -1,0 +1,205 @@
+<!doctype html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Simple Transactional Email</title>
+    <style>
+    /* -------------------------------------
+        INLINED WITH htmlemail.io/inline
+    ------------------------------------- */
+    /* -------------------------------------
+        RESPONSIVE AND MOBILE FRIENDLY STYLES
+    ------------------------------------- */
+    @media only screen and (max-width: 620px) {
+      table[class=body] h1 {
+        font-size: 28px !important;
+        margin-bottom: 10px !important;
+      }
+      table[class=body] p,
+            table[class=body] ul,
+            table[class=body] ol,
+            table[class=body] td,
+            table[class=body] span,
+            table[class=body] a {
+        font-size: 16px !important;
+      }
+      table[class=body] .wrapper,
+            table[class=body] .article {
+        padding: 10px !important;
+      }
+      table[class=body] .content {
+        padding: 0 !important;
+      }
+      table[class=body] .container {
+        padding: 0 !important;
+        width: 100% !important;
+      }
+      table[class=body] .main {
+        border-left-width: 0 !important;
+        border-radius: 0 !important;
+        border-right-width: 0 !important;
+      }
+      table[class=body] .btn table {
+        width: 100% !important;
+      }
+      table[class=body] .btn a {
+        width: 100% !important;
+      }
+      table[class=body] .img-responsive {
+        height: auto !important;
+        max-width: 100% !important;
+        width: auto !important;
+      }
+    }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.wrap {float: left}
+img.wrap2 {float: right}
+
+    /* -------------------------------------
+        PRESERVE THESE STYLES IN THE HEAD
+    ------------------------------------- */
+    @media all {
+      .ExternalClass {
+        width: 100%;
+      }
+      .ExternalClass,
+            .ExternalClass p,
+            .ExternalClass span,
+            .ExternalClass font,
+            .ExternalClass td,
+            .ExternalClass div {
+        line-height: 100%;
+      }
+      .apple-link a {
+        color: inherit !important;
+        font-family: inherit !important;
+        font-size: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+        text-decoration: none !important;
+      }
+      #MessageViewBody a {
+        color: inherit;
+        text-decoration: none;
+        font-size: inherit;
+        font-family: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+      }
+      .btn-primary table td:hover {
+        background-color: #ea8148 !important;
+      }
+      .btn-primary a:hover {
+        background-color: #ea8148 !important;
+        border-color: #ea8148 !important;
+      }
+    }
+    </style>
+  </head>
+  <body class="" style="background-color: #f6f6f6; font-family: sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; line-height: 1.4; margin: 0; padding: 0; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+    <span class="preheader" style="color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;">This is preheader text. Some clients will show this text as a preview.</span>
+    <table border="0" cellpadding="0" cellspacing="0" class="body" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; background-color: #f6f6f6;">
+      <tr>
+        <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;">&nbsp;</td>
+        <td class="container" style="font-family: sans-serif; font-size: 14px; vertical-align: top; display: block; Margin: 0 auto; max-width: 580px; padding: 10px; width: 580px;">
+          <div class="content" style="box-sizing: border-box; display: block; Margin: 0 auto; max-width: 580px; padding: 10px;">
+
+            <!-- START CENTERED WHITE CONTAINER -->
+            <table class="main" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; background: #ffffff; border-radius: 3px;">
+
+              <!-- START MAIN CONTENT AREA -->
+              <tr>
+                <td class="wrapper" style="font-family: sans-serif; font-size: 14px; vertical-align: top; box-sizing: border-box; padding: 20px;">
+                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+                    <tr>
+<img src="https://imgur.com/BgHWXUf.png" class="center" style="width:40%;"><br>
+                      <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;">
+                        <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin-left: 6%; margin-right: 6%; Margin-bottom: 15px; text-align: justify;"><img src="https://static.tumblr.com/ffcwczq/hS2qvq87w/email3.2.png" class="wrap" style="width: 45%; border-right: 20px transparent solid; border-bottom: 10px transparent solid;">
+Are you one of the millions of people who want to lose weight? <br><br>
+Have you tried the latest juice cleanse or appetite pill, or exercise, but you still don’t see the results you want to see? <br><br>
+At least not permanently. Because the weight you lose all comes back, plus more.<br><br>
+It leaves you in despair, feeling like a failure for not being able to achieve something that should be so simple.<br><br>
+I’ve typed up this email to say that none of this is your fault. You’re not alone.<br><br>
+Strap yourself in because this is a longer-than-normal email that just may change your life.<br><br>
+It’s not your fault, but you can choose to be better. To be bulletproof. <br><br>
+Are you ready to be bulletproof? Because starting March 1st, I’m only accepting 5 new warriors-in-training for the next 90 days. </p>
+</td>
+<tbody>
+                                    <tr>
+                                      <td style="font-family: sans-serif; font-size: 14px; vertical-align: top; background-color: #ea8148; border-radius: 5px; text-align: center;"> <a href="http://hanasherlock.com" target="_blank" style="display: inline-block; color: #ffffff; background-color: #ea8148; border: solid 1px #ea8148; border-radius: 5px; box-sizing: border-box; cursor: pointer; text-decoration: none; font-size: 14px; font-weight: bold; margin: 0; padding: 12px 25px; text-transform: capitalize; border-color: #ea8148;">Claim a spot in the 90 Day to a Bulletproof Bod Bootcamp.
+</a> </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody><td>
+<p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin-left: 6%; margin-right: 6%; Margin-bottom: 15px; text-align: justify;"><img src="https://static.tumblr.com/ffcwczq/7CEqvq886/email3.png" class="wrap2" style="width: 45%; border-left: 20px transparent solid; border-bottom: 10px transparent solid;">
+Being bulletproof comes with acknowledging that it’s hard to lose weight, let alone keep it off when society keeps selling you on the magic pill that makes all your problems go away. It’s hard when that magic pill is a bullet for misinformation. A bullet that travels up to 1,800 MPH! That’s 2x faster than the speed of sound.<br><br>
+So many have been penetrated by this bullet. Because it says any version of “Drink me” and you’ll shrink from shedding all of that pounds.<br><br>
+It’s so easy to believe in that crap because misinformation is everywhere. It’s everywhere you look over your shoulder. On billboards, on commercials, on social media. Hell, you may resort to hiding under a desk only to see an open packet of what would have been digestion powder that missed the trash can. <br><br>
+It’s that saying--You can run, but you can’t hide.<br><br>
+I’m one of those who couldn’t hide from it, either. I still can’t. And I don’t claim to. But there came a day where I decided that enough was enough. There are no shortcuts to losing weight. The only way is through a balanced diet and a workout plan.<br><br>
+Needless to say, that’s all easier said than done. These did not come without the help of a mentor and an environment that fostered healthy habits. Healthy habits that all go back to consistency. <br><br>
+Consistency is the only reason I’m even sitting here writing this to you.<br><br>
+I’ve had help uncovering the true me and, now that a few years have passed, I have a whole army of bulletproof clients who’ve gotten my help (and each other’s) on uncovering the true them.<br><br>
+What separates us from the millions of people still struggling with their weight is that they realized they had a choice. The choice between a quick fix that leaves them feeling like crap for little to no results or feeling great and getting the best results because of the lifestyle they created for themselves.<br><br>
+Now that’s a choice you have to make for yourself. It’s a tough decision to make because both routes are hard. But I promise you--if you choose the latter, you don’t have to do this alone.<br><br>
+You are not alone because, as a personal trainer, it’s my personal mission to help you shed the layers of fat and discover the true YOU that’s underneath it all. <br><br>
+In my 90 Day to a Bulletproof Bod Bootcamp, you’ll receive a 1:1 training program that is designed to fit your unique needs. Combined with 24/7 access to personal support, a community, and nutrition guidance.<br><br>
+Are you ready to be bulletproof today? </p>
+
+<table border="0" cellpadding="0" cellspacing="0" class="btn btn-primary" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; box-sizing: border-box;">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-family: sans-serif; font-size: 14px; vertical-align: top; padding-bottom: 15px;">
+                                <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="font-family: sans-serif; font-size: 14px; vertical-align: top; background-color: #ea8148; border-radius: 5px; text-align: center;"> <a href="http://hanasherlock.com" target="_blank" style="display: inline-block; color: #ffffff; background-color: #ea8148; border: solid 1px #ea8148; border-radius: 5px; box-sizing: border-box; cursor: pointer; text-decoration: none; font-size: 14px; font-weight: bold; margin: 0; padding: 12px 25px; text-transform: capitalize; border-color: #ea8148;">Claim a spot in the 90 Day to a Bulletproof Bod Bootcamp</a> </td>
+                                 
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin-left: 6%; margin-right: 6%; Margin-bottom: 15px; text-align: justify;">(Remember, I’m only accepting 5 new warriors-in-training starting March 1st, so act now if you’re ready!)<br><br>
+Coach Jane
+</p>
+                        
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+            <!-- END MAIN CONTENT AREA -->
+            </table>
+
+            <!-- START FOOTER -->
+            <div class="footer" style="clear: both; Margin-top: 10px; text-align: center; width: 100%;">
+              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+                <tr>
+                  <td class="content-block" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; font-size: 12px; color: #999999; text-align: center;">
+                    <span class="apple-link" style="color: #999999; font-size: 12px; text-align: center;">Company Inc, 3 Abbey Road, San Francisco CA 94102</span>
+                    <br> Don't like these emails? <a href="http://hanasherlock.com" style="text-decoration: underline; color: #999999; font-size: 12px; text-align: center;">Unsubscribe</a>.
+                  </td>
+                </tr>
+              </table>
+            </div>
+            <!-- END FOOTER -->
+
+          <!-- END CENTERED WHITE CONTAINER -->
+          </div>
+        </td>
+        <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;">&nbsp;</td>
+      </tr>
+    </table>
+  </body>
+</html>
