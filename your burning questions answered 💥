@@ -1,0 +1,167 @@
+<!doctype html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Simple Transactional Email</title>
+    <style>
+    /* -------------------------------------
+        INLINED WITH htmlemail.io/inline
+    ------------------------------------- */
+    /* -------------------------------------
+        RESPONSIVE AND MOBILE FRIENDLY STYLES
+    ------------------------------------- */
+    @media only screen and (max-width: 620px) {
+      table[class=body] h1 {
+        font-size: 28px !important;
+        margin-bottom: 10px !important;
+      }
+      table[class=body] p,
+            table[class=body] ul,
+            table[class=body] ol,
+            table[class=body] td,
+            table[class=body] span,
+            table[class=body] a {
+        font-size: 16px !important;
+      }
+      table[class=body] .wrapper,
+            table[class=body] .article {
+        padding: 10px !important;
+      }
+      table[class=body] .content {
+        padding: 0 !important;
+      }
+      table[class=body] .container {
+        padding: 0 !important;
+        width: 100% !important;
+      }
+      table[class=body] .main {
+        border-left-width: 0 !important;
+        border-radius: 0 !important;
+        border-right-width: 0 !important;
+      }
+      table[class=body] .btn table {
+        width: 100% !important;
+      }
+      table[class=body] .btn a {
+        width: 100% !important;
+      }
+      table[class=body] .img-responsive {
+        height: auto !important;
+        max-width: 100% !important;
+        width: auto !important;
+      }
+    }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+    /* -------------------------------------
+        PRESERVE THESE STYLES IN THE HEAD
+    ------------------------------------- */
+    @media all {
+      .ExternalClass {
+        width: 100%;
+      }
+      .ExternalClass,
+            .ExternalClass p,
+            .ExternalClass span,
+            .ExternalClass font,
+            .ExternalClass td,
+            .ExternalClass div {
+        line-height: 100%;
+      }
+      .apple-link a {
+        color: inherit !important;
+        font-family: inherit !important;
+        font-size: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+        text-decoration: none !important;
+      }
+      #MessageViewBody a {
+        color: inherit;
+        text-decoration: none;
+        font-size: inherit;
+        font-family: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+      }
+      .btn-primary table td:hover {
+        background-color: #ea8148 !important;
+      }
+      .btn-primary a:hover {
+        background-color: #ea8148 !important;
+        border-color: #ea8148 !important;
+      }
+    }
+    </style>
+  </head>
+  <body class="" style="background-color: #f6f6f6; font-family: sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; line-height: 1.4; margin: 0; padding: 0; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+    <span class="preheader" style="color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;">This is preheader text. Some clients will show this text as a preview.</span>
+    <table border="0" cellpadding="0" cellspacing="0" class="body" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; background-color: #f6f6f6;">
+      <tr>
+        <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;">&nbsp;</td>
+        <td class="container" style="font-family: sans-serif; font-size: 14px; vertical-align: top; display: block; Margin: 0 auto; max-width: 580px; padding: 10px; width: 580px;">
+          <div class="content" style="box-sizing: border-box; display: block; Margin: 0 auto; max-width: 580px; padding: 10px;">
+
+            <!-- START CENTERED WHITE CONTAINER -->
+            <table class="main" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; background: #ffffff; border-radius: 3px;">
+
+              <!-- START MAIN CONTENT AREA -->
+              <tr>
+                <td class="wrapper" style="font-family: sans-serif; font-size: 14px; vertical-align: top; box-sizing: border-box; padding: 20px;">
+                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+                    <tr>
+<img src="https://imgur.com/BgHWXUf.png" class="center" style="width:40%;"><br>
+<img src="https://imgur.com/H6HH1Sj.png" class="center" style="width: 90%;"><br>
+                      <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;">
+                        <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin-left: 6%; margin-right: 6%; Margin-bottom: 15px; text-align: justify;">
+Last email, I asked you to hit the reply button and send me some of your burning questions. For which I got a ton of responses. A lot of them are very similar, so I figured I’d compile some of them here!<br><br>
+Here are the top 3 questions you guys had for me. (If you don’t see your question answered here, expect an email from me! Check your spam folder if it’s not in your main inbox.)<br><br>
+<img src="https://imgur.com/ZwSXZ9O.png" class="center" style="width: 100%;"></p>
+<p style="font-family: sans-serif; font-size: 15px; font-weight: 600; margin-left: 6%; margin-right: 6%; Margin-bottom: 15px;">What are your fitness qualifications?</p><p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin-left: 6%; margin-right: 6%; Margin-bottom: 15px; text-align: justify;">
+I am NASM & ACE certified, and I’ve been training clients for over 3 years now. You can check out the testimonials on my website or refer back to the email called re: the 90 day bulletproof bod bootcamp & the recieptssss.</p>
+<p style="font-family: sans-serif; font-size: 15px; font-weight: 600; margin-left: 6%; margin-right: 6%; Margin-bottom: 15px;">Why am I not seeing any results from my workouts?</p>
+<p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin-left: 6%; margin-right: 6%; Margin-bottom: 15px; text-align: justify;">I often find that the problem lies in your fitness regimen. Your body has this uncanny ability to adapt to stressors, especially if they get repeated. This is because your body knows the amount of energy it needs to store for the routine you have set in place. So knowing this, it’s crucial to change up your workouts and to change them in a way that makes them progressively difficult for you. Even if you are fit, your exercises should always be challenging!  A good rule of thumb is working out never gets easier; you just get better.<br><br>
+Another thing is--if you are someone who does primarily cardio, you are not doing yourself a favor in the long run. Now, don’t get me wrong--cardio is great, it has its place. And that’s all. If you truly want to lose weight and raise your metabolism (aka keep the weight off for good), you’ll want to build muscle. That’s why a good portion of my customized training program is geared towards strength training. That, and a solid nutrition plan (which I also provide) is the key to see the real gains that you wanna see.</p>
+<p style="font-family: sans-serif; font-size: 15px; font-weight: 600; margin-left: 6%; margin-right: 6%; Margin-bottom: 15px;">What if I see no results with your 90 Day to a Bulletproof Bod Program?</p>
+<p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin-left: 6%; margin-right: 6%; Margin-bottom: 15px; text-align: justify;">Again, it depends. It depends on what results you want to see and what kind of effort you’re putting into them. As a member of the Bulletproof Army, you’ll get check-ins from me in between training sessions to see how you’re progressing and if any changes will need to be made regarding diet and exercise. <br><br>
+Got any more questions? No worries, my inbox is always open so go ahead and send me a message.<br><br>
+Coach Jane
+</p>
+                        
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+            <!-- END MAIN CONTENT AREA -->
+            </table>
+
+            <!-- START FOOTER -->
+            <div class="footer" style="clear: both; Margin-top: 10px; text-align: center; width: 100%;">
+              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+                <tr>
+                  <td class="content-block" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; font-size: 12px; color: #999999; text-align: center;">
+                    <span class="apple-link" style="color: #999999; font-size: 12px; text-align: center;">Company Inc, 3 Abbey Road, San Francisco CA 94102</span>
+                    <br> Don't like these emails? <a href="http://hanasherlock.com" style="text-decoration: underline; color: #999999; font-size: 12px; text-align: center;">Unsubscribe</a>.
+                  </td>
+                </tr>
+              </table>
+            </div>
+            <!-- END FOOTER -->
+
+          <!-- END CENTERED WHITE CONTAINER -->
+          </div>
+        </td>
+        <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;">&nbsp;</td>
+      </tr>
+    </table>
+  </body>
+</html>
