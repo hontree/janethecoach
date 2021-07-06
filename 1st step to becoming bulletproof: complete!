@@ -3,10 +3,9 @@
   <head>
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Simple Transactional Email</title>
     <style>
     /* -------------------------------------
-        INLINED WITH htmlemail.io/inline
+        Hana Sherlock
     ------------------------------------- */
     /* -------------------------------------
         RESPONSIVE AND MOBILE FRIENDLY STYLES
@@ -128,11 +127,8 @@ Also tune in on <a href="Http://youtube.com">Youtube</a> <b>(@janethecoach)</b> 
 I look forward to seeing you over on social media. Don’t be afraid to say ‘Hey!’<br><br>
 Coach Jane<br><br>
 P.S. If you’re curious about the 90 Day to a Bulletproof Bod Bootcamp, head on over to The BulletProof Academy website to learn more.</p>
-                        <table border="0" cellpadding="0" cellspacing="0" class="btn btn-primary" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; box-sizing: border-box;">
-                          <tbody>
-                            <tr>
-                              <td align="left" style="font-family: sans-serif; font-size: 14px; vertical-align: top; padding-bottom: 15px;">
-                                <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto;">
+                        <table border="0" cellpadding="0" cellspacing="0" class="btn btn-primary" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto; box-sizing: border-box; margin-left: 6%; margin-right: 6%;">
+                          
                                   <tbody>
                                     <tr>
                                       <td style="font-family: sans-serif; font-size: 14px; vertical-align: top; background-color: #ea8148; border-radius: 5px; text-align: center;"> <a href="http://hanasherlock.com" target="_blank" style="display: inline-block; color: #ffffff; background-color: #ea8148; border: solid 1px #ea8148; border-radius: 5px; box-sizing: border-box; cursor: pointer; text-decoration: none; font-size: 14px; font-weight: bold; margin: 0; padding: 12px 25px; text-transform: capitalize; border-color: #ea8148;">Learn More</a> </td>
