@@ -3,10 +3,9 @@
   <head>
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Simple Transactional Email</title>
     <style>
     /* -------------------------------------
-        INLINED WITH htmlemail.io/inline
+        Hana Sherlock
     ------------------------------------- */
     /* -------------------------------------
         RESPONSIVE AND MOBILE FRIENDLY STYLES
@@ -136,10 +135,8 @@ Yasmine - If you asked me a year ago that I’d be the happiest and fittest I’
 Beth - I thought that to lose any weight meant that my diet and fitness regimen would have to be super strict. Nope! I’m down 30 pounds and still going, all thanks to the tools that Jane has given me. There’s still a ways for me to go, but I feel so pumped and energized compared to before. I can’t believe I didn’t find Jane sooner, but I’m so glad I did at all.</p>
 
 <table border="0" cellpadding="0" cellspacing="0" class="btn btn-primary" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; box-sizing: border-box;">
-                          <tbody>
-                            <tr>
-                              <td align="left" style="font-family: sans-serif; font-size: 14px; vertical-align: top; padding-bottom: 15px;">
-                                <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto;">
+                          <table border="0" cellpadding="0" cellspacing="0" class="btn btn-primary" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto; box-sizing: border-box; margin-left: 6%; margin-right: 6%;">
+                          
                                   <tbody>
                                     <tr>
                                       <td style="font-family: sans-serif; font-size: 14px; vertical-align: top; background-color: #ea8148; border-radius: 5px; text-align: center;"> <a href="http://hanasherlock.com" target="_blank" style="display: inline-block; color: #ffffff; background-color: #ea8148; border: solid 1px #ea8148; border-radius: 5px; box-sizing: border-box; cursor: pointer; text-decoration: none; font-size: 14px; font-weight: bold; margin: 0; padding: 12px 25px; text-transform: capitalize; border-color: #ea8148;">Join the 90 Day to a Bulletproof Bod Bootcamp</a> </td>
