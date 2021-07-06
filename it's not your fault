@@ -3,10 +3,9 @@
   <head>
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Simple Transactional Email</title>
     <style>
     /* -------------------------------------
-        INLINED WITH htmlemail.io/inline
+        Hana Sherlock
     ------------------------------------- */
     /* -------------------------------------
         RESPONSIVE AND MOBILE FRIENDLY STYLES
@@ -131,9 +130,11 @@ Strap yourself in because this is a longer-than-normal email that just may chang
 It’s not your fault, but you can choose to be better. To be bulletproof. <br><br>
 Are you ready to be bulletproof? Because starting March 1st, I’m only accepting 5 new warriors-in-training for the next 90 days. </p>
 </td>
-<tbody>
+<table border="0" cellpadding="0" cellspacing="0" class="btn btn-primary" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 90%; box-sizing: border-box; margin-left: 6%; margin-right: 6%;">
+                          
+                                  <tbody>
                                     <tr>
-                                      <td style="font-family: sans-serif; font-size: 14px; vertical-align: top; background-color: #ea8148; border-radius: 5px; text-align: center;"> <a href="http://hanasherlock.com" target="_blank" style="display: inline-block; color: #ffffff; background-color: #ea8148; border: solid 1px #ea8148; border-radius: 5px; box-sizing: border-box; cursor: pointer; text-decoration: none; font-size: 14px; font-weight: bold; margin: 0; padding: 12px 25px; text-transform: capitalize; border-color: #ea8148;">Claim a spot in the 90 Day to a Bulletproof Bod Bootcamp.
+                                      <td style="font-family: sans-serif; font-size: 14px; vertical-align: top; background-color: #ea8148; border-radius: 5px; text-align: center;"> <a href="http://hanasherlock.com" target="_blank" style="display: inline-block; color: #ffffff; background-color: #ea8148; border: solid 1px #ea8148; border-radius: 5px; box-sizing: border-box; cursor: pointer; text-decoration: none; font-size: 14px; font-weight: bold; margin: 0; padding: 12px 25px; text-transform: capitalize; border-color: #ea8148;">Claim a spot in the 90 Day to a Bulletproof Bod Bootcamp
 </a> </td>
                                     </tr>
                                   </tbody>
@@ -156,14 +157,11 @@ You are not alone because, as a personal trainer, it’s my personal mission to 
 In my 90 Day to a Bulletproof Bod Bootcamp, you’ll receive a 1:1 training program that is designed to fit your unique needs. Combined with 24/7 access to personal support, a community, and nutrition guidance.<br><br>
 Are you ready to be bulletproof today? </p>
 
-<table border="0" cellpadding="0" cellspacing="0" class="btn btn-primary" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; box-sizing: border-box;">
-                          <tbody>
-                            <tr>
-                              <td align="left" style="font-family: sans-serif; font-size: 14px; vertical-align: top; padding-bottom: 15px;">
-                                <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto;">
+<table border="0" cellpadding="0" cellspacing="0" class="btn btn-primary" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto; box-sizing: border-box; margin-left: 6%; margin-right: 6%;">
+                          
                                   <tbody>
                                     <tr>
-                                      <td style="font-family: sans-serif; font-size: 14px; vertical-align: top; background-color: #ea8148; border-radius: 5px; text-align: center;"> <a href="http://hanasherlock.com" target="_blank" style="display: inline-block; color: #ffffff; background-color: #ea8148; border: solid 1px #ea8148; border-radius: 5px; box-sizing: border-box; cursor: pointer; text-decoration: none; font-size: 14px; font-weight: bold; margin: 0; padding: 12px 25px; text-transform: capitalize; border-color: #ea8148;">Claim a spot in the 90 Day to a Bulletproof Bod Bootcamp</a> </td>
+                                      <td style="font-family: sans-serif; font-size: 14px; vertical-align: top; background-color: #ea8148; border-radius: 5px; text-align: center;"> <a href="http://hanasherlock.com" target="_blank" style="display: inline-block; color: #ffffff; background-color: #ea8148; border: solid 1px #ea8148; border-radius: 5px; box-sizing: border-box; cursor: pointer; text-decoration: none; font-size: 14px; font-weight: bold; margin: 0; padding: 12px 25px; text-transform: capitalize; border-color: #ea8148;">Claim a spot in the 90 Day to a Bulletproof Bod Bootcamp</a> 
                                  
                               </td>
                             </tr>
